@@ -1,0 +1,21 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# macOS system files
+.DS_Store
+
+# Bundler
+/vendor/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# VS Code or other IDE/editor settings (optional)
+.vscode/
+.idea/
